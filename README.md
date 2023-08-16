@@ -9,6 +9,7 @@
  - [ ] Get posts from the following endpoint:  https://jsonplaceholder.typicode.com/
  - [ ] - [ ] Display the posts to the user. 
 
+
 ![Simulator Screenshot - iPhone 14 Pro - 2023-07-18 at 00 04 16](https://github.com/ThulaniMtetwa/BaseMVVM/assets/8955097/6082d80f-1bb0-4c43-ae80-076eda944074)
 
 
